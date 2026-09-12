@@ -2,7 +2,7 @@
 
 Draft for Demo QA port. Research date: **12 September 2026**. English (skills). App UI: **Swedish**.
 
-**Build gate:** CLOSED — awaiting Demo QA port / Pål open.
+**Build gate:** OPEN — Norway Scout **kjør** 12 Sep 2026 (bakeoff #3 / Composer Max).
 
 **Track:** **design-bakeoff #3 / Cursor-only**. **Composer Max** default on all design steps (not High). Soft depth. Gold bar: **caiacosmetics-4**. Splash + 3–5 tab roots; functions need not work. No Opus. No Mail 1/2.
 
