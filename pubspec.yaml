@@ -1,0 +1,31 @@
+name: caiacosmetics_9
+description: CAIA Cosmetics design-bakeoff #3 (Flutter web).
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  lucide_icons_flutter: ^3.1.19
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/brand/
+    - assets/brand/fonts/
+    - assets/images/
+  fonts:
+    - family: Artico
+      fonts:
+        - asset: assets/brand/fonts/Artico-700.ttf
+          weight: 700
+        - asset: assets/brand/fonts/Artico-400.ttf
+          weight: 400
