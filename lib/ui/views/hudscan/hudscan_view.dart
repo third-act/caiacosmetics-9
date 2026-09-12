@@ -46,9 +46,9 @@ class _HudscanViewState extends State<HudscanView> {
         fit: StackFit.expand,
         children: [
           Image.asset(
-            'assets/images/ansikte-scan.jpg',
+            'assets/images/ansikte-lifestyle.jpg',
             fit: BoxFit.cover,
-            alignment: const Alignment(0, -0.2),
+            alignment: const Alignment(0, -0.25),
             errorBuilder: (context, error, stack) =>
                 const ColoredBox(color: AppColors.plateHigh),
           ),
